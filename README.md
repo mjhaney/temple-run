@@ -8,7 +8,7 @@ After a few read-throughs with my son, I thought it would be interesting to map 
 
 The `*.yuml-diagram` files can be submitted at http://yuml.me to produce the diagrams.
 
-By my reckoning, the quickest way to die is just 3 decisions away from the start (`9 -> 51 -> 67 -> 64`).  There are 12 different deaths, and 12 different non-death endings, with varying degrees of 'winning'.  The story diverges at the first decision point into 3 separate 'Act 1s', before converging at one particular shared 'decision' point.  It's not really a decision though, as the very first decision you took earlier determines your path.  Notably, there's one path which, after 18-ish decisions, will see you trapped in an infinite loop, much like the game the book is based on.  
+By my reckoning, the quickest way to die is just 3 decisions away from the start (`9 -> 51 -> 67 -> 64`).  There are 12 different deaths, and 12 different non-death endings, with varying degrees of 'winning'.  The story diverges at the first decision point into 3 separate 'Act 1s', before converging at one particular shared 'decision' point.  It's not really a decision though, as the very first decision you took earlier determines your path.  Notably, there's one path which, after 18-ish decisions, will see you trapped in an infinite loop, much like the game the book is based on, pleasingly...
 
 ## Map
 <img src="https://cdn.rawgit.com/mjhaney/temple-run/main/run-for-your-life/coloured-map.png" />
